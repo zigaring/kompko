@@ -25,7 +25,4 @@
         <button type="submit" class="btn btn-secondary" name="submit" value="Submit">Submit</button>
     </form>
   </div>
-
-<h2>TEST TEST</h2>
-
 <?php } ?>
